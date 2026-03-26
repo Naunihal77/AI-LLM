@@ -1,0 +1,5 @@
+{
+  "name": "AI Analyzer LLM",
+  "description": "An AI-powered notebook that analyzes PDFs and images to provide summaries, quizzes, step-by-step guides, and more.",
+  "requestFramePermissions": []
+}
